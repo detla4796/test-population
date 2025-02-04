@@ -1,0 +1,9 @@
+Qatar	2235431
+
+Total population: 2.23543e+06
+
+Number of countries: 1
+
+Average population: 2.23543e+06
+
+Number of countries with a population of more than 100 million: 0

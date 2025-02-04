@@ -1,0 +1,14 @@
+Kenya	46749000
+Kazakhstan	17397200
+Kyrgyzstan	5874100
+Kuwait	3268431
+Kosovo	1816891
+Kiribati	106461
+
+Total population: 7.52121e+07
+
+Number of countries: 6
+
+Average population: 1.25353e+07
+
+Number of countries with a population of more than 100 million: 0

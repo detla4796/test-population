@@ -1,0 +1,23 @@
+Nigeria	183523000
+Nepal	28037904
+North Korea	25155000
+Niger	19268000
+Netherlands	16888500
+Nicaragua	6134270
+Norway	5156450
+New Zealand	4559890
+Namibia	2113077
+Northern Cyprus	294906
+New Caledonia (France)	268767
+Northern Mariana Islands (U.S.)	53883
+Nauru	10084
+Norfolk Island (Australia)	2302
+Niue (New Zealand)	1613
+
+Total population: 2.91468e+08
+
+Number of countries: 15
+
+Average population: 1.94312e+07
+
+Number of countries with a population of more than 100 million: 1

@@ -1,0 +1,20 @@
+Pakistan	188894000
+Philippines	100959800
+Poland	38496000
+Peru	31151643
+Portugal	10477800
+Papua New Guinea	7398500
+Paraguay	6893727
+Palestine	4550368
+Panama	3713312
+Puerto Rico (U.S.)	3548397
+Palau	20901
+Pitcairn Islands (UK)	56
+
+Total population: 3.96105e+08
+
+Number of countries: 12
+
+Average population: 3.30087e+07
+
+Number of countries with a population of more than 100 million: 2

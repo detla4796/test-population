@@ -1,0 +1,16 @@
+Ethiopia	90076012
+Egypt	87965900
+Ecuador	15925700
+Eritrea	6738000
+El Salvador	6401240
+Equatorial Guinea	1430000
+Estonia	1312252
+East Timor	1212107
+
+Total population: 2.11061e+08
+
+Number of countries: 8
+
+Average population: 2.63827e+07
+
+Number of countries with a population of more than 100 million: 0

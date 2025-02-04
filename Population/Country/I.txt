@@ -1,0 +1,18 @@
+India	1266480000
+Indonesia	255461700
+Iran	78096500
+Italy	60782897
+Iraq	36004552
+Ivory Coast	22671331
+Israel	8296000
+Ireland	4609600
+Iceland	328170
+Isle of Man (UK)	84497
+
+Total population: 1.73282e+09
+
+Number of countries: 10
+
+Average population: 1.73282e+08
+
+Number of countries with a population of more than 100 million: 2

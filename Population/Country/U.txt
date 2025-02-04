@@ -1,0 +1,16 @@
+United States	320341000
+United Kingdom	64105654
+Ukraine	42953889
+Uganda	34856813
+Uzbekistan	30492800
+United Arab Emirates	9577000
+Uruguay	3404189
+United States Virgin Islands (U.S.)	106405
+
+Total population: 5.05838e+08
+
+Number of countries: 8
+
+Average population: 6.32297e+07
+
+Number of countries with a population of more than 100 million: 1

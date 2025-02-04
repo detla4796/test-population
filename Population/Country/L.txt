@@ -1,0 +1,17 @@
+Laos	6802000
+Libya	6317000
+Liberia	4503000
+Lebanon	4104000
+Lithuania	2921920
+Lesotho	2120000
+Latvia	1988400
+Luxembourg	549700
+Liechtenstein	37132
+
+Total population: 2.93432e+07
+
+Number of countries: 9
+
+Average population: 3.26035e+06
+
+Number of countries with a population of more than 100 million: 0

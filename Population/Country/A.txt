@@ -1,0 +1,24 @@
+Argentina	43131966
+Algeria	39500000
+Afghanistan	26556800
+Angola	24383301
+Australia	23735500
+Azerbaijan	9583200
+Austria	8572895
+Armenia	3013900
+Albania	2895947
+Abkhazia	240705
+Aruba (Netherlands)	107394
+Antigua and Barbuda	86295
+Andorra	76949
+American Samoa (U.S.)	55519
+Aland Islands (Finland)	28875
+Anguilla (UK)	13452
+
+Total population: 1.81983e+08
+
+Number of countries: 16
+
+Average population: 1.13739e+07
+
+Number of countries with a population of more than 100 million: 0

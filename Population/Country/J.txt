@@ -1,0 +1,12 @@
+Japan	127020000
+Jordan	6687470
+Jamaica	2717991
+Jersey (UK)	99000
+
+Total population: 1.36524e+08
+
+Number of countries: 4
+
+Average population: 3.41311e+07
+
+Number of countries with a population of more than 100 million: 1

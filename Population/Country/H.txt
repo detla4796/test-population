@@ -1,0 +1,12 @@
+Haiti	10911819
+Hungary	9879000
+Honduras	8725111
+Hong Kong (China)	7234800
+
+Total population: 3.67507e+07
+
+Number of countries: 4
+
+Average population: 9.18768e+06
+
+Number of countries with a population of more than 100 million: 0

@@ -1,0 +1,16 @@
+France	66092000
+Finland	5475526
+Fiji	859178
+French Polynesia (France)	268270
+French Guiana (France)	239648
+Federated States of Micronesia	101351
+Faroe Islands (Denmark)	48605
+Falkland Islands (UK)	3000
+
+Total population: 7.30876e+07
+
+Number of countries: 8
+
+Average population: 9.13595e+06
+
+Number of countries with a population of more than 100 million: 0

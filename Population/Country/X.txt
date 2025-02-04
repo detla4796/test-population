@@ -1,0 +1,8 @@
+
+Total population: 0
+
+Number of countries: 0
+
+Average population: -nan(ind)
+
+Number of countries with a population of more than 100 million: 0
