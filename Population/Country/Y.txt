@@ -1,9 +1,9 @@
 Yemen	25956000
 
-Total population: 2.5956e+07
+Total population: 25956000
 
 Number of countries: 1
 
-Average population: 2.5956e+07
+Average population: 25956000
 
 Number of countries with a population of more than 100 million: 0

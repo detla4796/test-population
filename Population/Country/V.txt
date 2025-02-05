@@ -3,10 +3,10 @@ Venezuela	30620404
 Vanuatu	264652
 Vatican City	839
 
-Total population: 1.21616e+08
+Total population: 121615895
 
 Number of countries: 4
 
-Average population: 3.0404e+07
+Average population: 30403973
 
 Number of countries with a population of more than 100 million: 0

@@ -5,6 +5,6 @@ Total population: 617135
 
 Number of countries: 2
 
-Average population: 308568
+Average population: 308567
 
 Number of countries with a population of more than 100 million: 0

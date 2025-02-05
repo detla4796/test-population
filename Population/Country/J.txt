@@ -3,10 +3,10 @@ Jordan	6687470
 Jamaica	2717991
 Jersey (UK)	99000
 
-Total population: 1.36524e+08
+Total population: 136524461
 
 Number of countries: 4
 
-Average population: 3.41311e+07
+Average population: 34131115
 
 Number of countries with a population of more than 100 million: 1

@@ -14,10 +14,10 @@ Guernsey (UK)	63085
 Greenland (Denmark)	56295
 Gibraltar (UK)	30001
 
-Total population: 1.54833e+08
+Total population: 154832535
 
 Number of countries: 15
 
-Average population: 1.03222e+07
+Average population: 10322169
 
 Number of countries with a population of more than 100 million: 0

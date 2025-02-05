@@ -11,10 +11,10 @@ Puerto Rico (U.S.)	3548397
 Palau	20901
 Pitcairn Islands (UK)	56
 
-Total population: 3.96105e+08
+Total population: 396104504
 
 Number of countries: 12
 
-Average population: 3.30087e+07
+Average population: 33008708
 
 Number of countries with a population of more than 100 million: 2

@@ -1,9 +1,9 @@
 Oman	4099904
 
-Total population: 4.0999e+06
+Total population: 4099904
 
 Number of countries: 1
 
-Average population: 4.0999e+06
+Average population: 4099904
 
 Number of countries with a population of more than 100 million: 0

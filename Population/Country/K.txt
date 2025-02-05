@@ -5,10 +5,10 @@ Kuwait	3268431
 Kosovo	1816891
 Kiribati	106461
 
-Total population: 7.52121e+07
+Total population: 75212083
 
 Number of countries: 6
 
-Average population: 1.25353e+07
+Average population: 12535347
 
 Number of countries with a population of more than 100 million: 0

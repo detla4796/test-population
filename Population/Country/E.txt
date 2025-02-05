@@ -7,10 +7,10 @@ Equatorial Guinea	1430000
 Estonia	1312252
 East Timor	1212107
 
-Total population: 2.11061e+08
+Total population: 211061211
 
 Number of countries: 8
 
-Average population: 2.63827e+07
+Average population: 26382651
 
 Number of countries with a population of more than 100 million: 0

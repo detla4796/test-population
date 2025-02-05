@@ -7,10 +7,10 @@ United Arab Emirates	9577000
 Uruguay	3404189
 United States Virgin Islands (U.S.)	106405
 
-Total population: 5.05838e+08
+Total population: 505837750
 
 Number of countries: 8
 
-Average population: 6.32297e+07
+Average population: 63229718
 
 Number of countries with a population of more than 100 million: 1

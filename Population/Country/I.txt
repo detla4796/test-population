@@ -9,10 +9,10 @@ Ireland	4609600
 Iceland	328170
 Isle of Man (UK)	84497
 
-Total population: 1.73282e+09
+Total population: 1732815247
 
 Number of countries: 10
 
-Average population: 1.73282e+08
+Average population: 173281524
 
 Number of countries with a population of more than 100 million: 2

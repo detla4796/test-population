@@ -8,10 +8,10 @@ Latvia	1988400
 Luxembourg	549700
 Liechtenstein	37132
 
-Total population: 2.93432e+07
+Total population: 29343152
 
 Number of countries: 9
 
-Average population: 3.26035e+06
+Average population: 3260350
 
 Number of countries with a population of more than 100 million: 0

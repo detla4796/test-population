@@ -20,10 +20,10 @@ Marshall Islands	56086
 Monaco	36950
 Montserrat (UK)	4922
 
-Total population: 2.81281e+08
+Total population: 281280850
 
 Number of countries: 21
 
-Average population: 1.33943e+07
+Average population: 13394326
 
 Number of countries with a population of more than 100 million: 1

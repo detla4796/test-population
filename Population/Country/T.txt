@@ -15,10 +15,10 @@ Turks and Caicos Islands (UK)	31458
 Tuvalu	11323
 Tokelau (NZ)	1411
 
-Total population: 2.49857e+08
+Total population: 249856653
 
 Number of countries: 16
 
-Average population: 1.5616e+07
+Average population: 15616040
 
 Number of countries with a population of more than 100 million: 0
